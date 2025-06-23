@@ -430,7 +430,7 @@ export default function HomePage() {
                 description:
                   "Responsable de la seguridad del material y corrección de color en tiempo real para producción independiente.",
                 image:
-                  "https://images.unsplash.com/photo-1489599904472-84b0e19be5b9?ixlib=rb-4.0.3&auto=format&fit=crop&w=400&q=80",
+                  "https://images.unsplash.com/photo-1440404653325-ab127d49abc1?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=400&q=80",
               },
               {
                 title: "Serie Streaming",
