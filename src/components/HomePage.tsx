@@ -65,7 +65,7 @@ const Badge = React.forwardRef<HTMLDivElement, BadgeProps>(({ className, variant
 
 // Main HomePage Component
 export default function HomePage() {
-  const whatsappNumber = "1234567890" // Reemplaza con tu número real
+  const whatsappNumber = "+573208738174" // Reemplaza con tu número real
   const whatsappMessage = "Hola, me interesa conocer más sobre tus servicios como DIT"
   const whatsappUrl = `https://wa.me/${whatsappNumber}?text=${encodeURIComponent(whatsappMessage)}`
 
