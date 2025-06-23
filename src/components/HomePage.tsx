@@ -483,7 +483,7 @@ export default function HomePage() {
             </p>
 
             <div className="grid md:grid-cols-2 gap-8 mb-12">
-              <Card className="bg-slate-800/50 border-slate-700 p-8">
+              <Card className="bg-slate-800/50 border-slate-700 p-8 hover:bg-slate-800/70 transition-all duration-300">
                 <h3 className="text-2xl font-bold text-white mb-4">Servicios DIT</h3>
                 <ul className="text-left space-y-3 text-slate-300">
                   <li className="flex items-center">
@@ -509,7 +509,7 @@ export default function HomePage() {
                 </ul>
               </Card>
 
-              <Card className="bg-slate-800/50 border-slate-700 p-8">
+              <Card className="bg-slate-800/50 border-slate-700 p-8 hover:bg-slate-800/70 transition-all duration-300">
                 <h3 className="text-2xl font-bold text-white mb-4">Desarrollo Web</h3>
                 <p className="text-slate-300 mb-4">
                   También ofrezco servicios de desarrollo web profesional para empresas y profesionales que buscan una
